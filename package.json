@@ -28,10 +28,10 @@
     },
     "extends": [
       "plugin:vue/essential",
-      "eslint:recommended"
+      "plugin:vue/recommended"
     ],
     "parserOptions": {
-      "parser": "@babel/eslint-parser"
+      "parser": "vue-eslint-parser"
     },
     "rules": {}
   },
